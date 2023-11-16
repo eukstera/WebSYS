@@ -17,7 +17,7 @@ export default function Nav()
                             {/* add links here */}
 
                              {/*Home Link  */}
-                             <Link  style={{textDecoration:'none'}} to="/" className="nav-item" ><li data-bs-toggle="tooltip" data-bs-title="Another one here too" className="nav-link " >Home</li></Link>
+                             <Link  style={{textDecoration:'none'}} to="/WebSYS" className="nav-item" ><li data-bs-toggle="tooltip" data-bs-title="Another one here too" className="nav-link " >Home</li></Link>
                              {/* Members Link */}
                              <Link style={{textDecoration:'none'}} to="/members" className="nav-item" ><li className="nav-link" >Members</li></Link>
                              {/* Content Management Link */}
